@@ -1,1 +1,1 @@
-#prendre une photo
+#CAMERA_APP
